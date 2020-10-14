@@ -10,8 +10,14 @@
 <br>
 
 ### Lenguajes y herramientas
+<div>
+<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/html.svg" />
+<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/Css.svg" />
+<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/python.svg" />
+<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/JS.svg" />
 
 <br>
+</div>
 <a href="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true" />
 </a>
