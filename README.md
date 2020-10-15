@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=400&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=448&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=448&theme=vue-dark&layout=compact" />
 </a>
