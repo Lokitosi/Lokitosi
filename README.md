@@ -20,9 +20,9 @@
 </div>
 
 ### Estadisticas:
-<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=darkk&show_icons=true&bg_color=DEG,0f2027,203a43,2c5364">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi10&theme=vue-dark&show_icons=true&bg_color=DEG,0f2027,203a43,2c5364"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=400&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=448&theme=vue-dark&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=400&layout=compact&bg_color=DEG,0f2027,203a43,2c5364">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi10&langs_count=8&card_width=448&theme=vue-dark&layout=compact&bg_color=DEG,0f2027,203a43,2c5364" />
 </a>
