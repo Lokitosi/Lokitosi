@@ -21,9 +21,9 @@
 </div>
 
 ### Estadisticas:
-<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=darkk&show_icons=true&bg_color=DEG,0f2027,203a43,2c5364">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=vue-dark&show_icons=true&bg_color=DEG,0f2027,203a43,2c5364"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=darkk&show_icons=true&bg_color=DEG,833ab4,0071c4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=vue-dark&show_icons=true&bg_color=DEG,833ab4,0071c4"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=400&layout=compact&bg_color=DEG,0f2027,203a43,2c5364">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=448&theme=vue-dark&layout=compact&bg_color=DEG,0f2027,203a43,2c5364" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=400&layout=compact&bg_color=DEG,833ab4,0071c4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=448&theme=vue-dark&layout=compact&bg_color=DEG,833ab4,0071c4" />
 </a>
