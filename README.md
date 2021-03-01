@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+<img src="https://imgur.com/UVk0bAF.gif">
 
 ### Un poco de info:
 </a>
