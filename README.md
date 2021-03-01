@@ -21,9 +21,9 @@
 </div>
 
 ### Estadisticas:
-<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=darkk&show_icons=true&bg_color=DEG,833ab4,0071c4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=vue-dark&show_icons=true&bg_color=DEG,833ab4,0071c4"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=dark&show_icons=true&bg_color=DEG,532770,066ab4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=dark&show_icons=true&bg_color=DEG,532770,066ab4"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=400&layout=compact&bg_color=DEG,833ab4,0071c4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=448&theme=vue-dark&layout=compact&bg_color=DEG,833ab4,0071c4" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=400&layout=compact&bg_color=DEG,532770,066ab4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=448&theme=dark&layout=compact&bg_color=DEG,532770,066ab4" />
 </a>
