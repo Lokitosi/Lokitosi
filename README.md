@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://imgur.com/UVk0bAF.gif">
 </p>
+
 ### Un poco de info:
 </a>
 <a href="https://twitter.com/lokitosi">
