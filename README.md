@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gph.is/g/4zAYWmL" alt="hpta que paso">
+  <img src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/banner.gif" alt="hpta que paso">
 </p>
 
 ### Un poco de info:
