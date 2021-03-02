@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/FtcCSiL.gif">
+  <img src="https://gph.is/g/aRj5LbN.gif" alt="hpta que paso">
 </p>
 
 ### Un poco de info:
