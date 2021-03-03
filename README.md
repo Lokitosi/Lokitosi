@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/banner.gif" alt="hpta que paso">
 </p>
 
-### Un poco de info:
+### Contact Info:
 </a>
 <a href="https://twitter.com/lokitosi">
   <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/twitter.svg" />
@@ -10,7 +10,7 @@
 </a>
 <br>
 
-### Lenguajes y herramientas:
+### Languages & Tools:
 <div>
 <img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/html.svg" />
 <img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/Css.svg" />
@@ -20,7 +20,7 @@
 <br>
 </div>
 
-### Estadisticas:
+### Statiscts:
 <a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=monokai&show_icons=true&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=monokai&show_icons=true&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4"/>
 </a>
