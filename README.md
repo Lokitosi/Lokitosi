@@ -20,7 +20,7 @@
 <br>
 </div>
 
-### Statiscts:
+### Statistics:
 <a href="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=monokai&show_icons=true&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=monokai&show_icons=true&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4"/>
 </a>
