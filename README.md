@@ -21,7 +21,7 @@
 
 #### Web Development:
 <div>
-<img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
