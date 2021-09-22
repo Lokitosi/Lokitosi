@@ -3,12 +3,19 @@
 </p>
 
 ### Contact Info:
+<div align="center">
 </a>
+
 <a href="https://twitter.com/lokitosi">
-  <img align="center" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/twitter.svg" />
-  Contacto
+  <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
+
+<a href="https://www.linkedin.com/in/edison-andres-gamba-robayo-57367b1b6/">
+  <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
+
 <br>
+</div>
 
 ### Languages & Tools:
 
