@@ -62,5 +62,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lokitosi&theme=monokai&show_icons=true&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=400&layout=compact&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=448&theme=monokai&layout=compact&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokitosi&langs_count=8&card_width=350&theme=monokai&layout=compact&bg_color=DEG,532770,066ab4&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF69B4" />
 </a>
