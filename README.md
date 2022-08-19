@@ -2,10 +2,9 @@
   <img src="https://raw.githubusercontent.com/Lokitosi10/Lokitosi10/master/assets/banner.gif" alt="hpta que paso">
 </p>
 
-### Contact Info:
+### About Me:
 <div align="center">
-</a>
-
+<p> Ingeniero de sistemas en formación con conocimientos en cloud computing , desarrollo de aplicaciones web y de escritorio. En constante Busqueda de nuevos conocimientos </p>
 <a href="https://twitter.com/lokitosi">
   <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
@@ -21,19 +20,21 @@
 
 #### Languages:
 <div>
-<img align="left" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidith=200&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Java-007396?logo=CoffeeScript&logoColor=white&logoWidith=200&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
 #### Web Development:
 <div>
-<img align="left" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
@@ -50,10 +51,11 @@
 <br>
 </div>
 
-#### Currently learning:
+#### Ohter:
 <div>
-<img align="left" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-<br>
+<img align="left" src="https://img.shields.io/badge/-Premiere Pro-9999FF?logo=AdobePremierePro&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
