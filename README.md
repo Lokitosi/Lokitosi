@@ -3,8 +3,16 @@
 </p>
 
 ### About Me:
+
+<div><p>
+Ingeniero de sistemas en formación con énfasis en el desarrollo de software, actualmente me encuentro aprendiendo sobre tecnologías relacionadas con el desarrollo web y el desarrollo full-stack
+
+Me apasiona la automatización de tareas para facilitar la vida del usuario del común 
+
+Aparte del desarrollo web tradicional he utilizado herramientas como Node js para gestionar actividades que requieran interacción con múltiples usuarios, además del uso de bases de datos relacionales para obtener una visión del uso del aplicativo mediante los datos obtenidos. 
+</p></div>
+
 <div align="center">
-<p> Ingeniero de sistemas en formación con conocimientos en cloud computing , desarrollo de aplicaciones web y de escritorio. En constante Busqueda de nuevos conocimientos </p>
 <a href="https://twitter.com/lokitosi">
   <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
