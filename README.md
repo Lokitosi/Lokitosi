@@ -13,7 +13,7 @@ Aparte del desarrollo web tradicional he utilizado herramientas como Node js par
 </p></div>
 
 <div align="center">
-<a href="https://twitter.com/lokitosi">
+<a href="https://twitter.com/lokitosi10">
   <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
 
