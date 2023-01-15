@@ -13,6 +13,7 @@ Apart from traditional web development, I have used tools such as Node js to man
 </p></div>
 
 <div align="center">
+  <h3>Find me in </h3>
 <a href="https://twitter.com/lokitosi10">
   <img align="center" alt="Twitter"  src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
@@ -46,9 +47,11 @@ Apart from traditional web development, I have used tools such as Node js to man
 <img align="left" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
-  
-<br>
 </div>
+
+<div>
+<br><br></div>
+
 
 #### Database:
 <div>
