@@ -5,11 +5,11 @@
 ### About Me:
 
 <div><p>
-Ingeniero de sistemas en formación con énfasis en el desarrollo de software, actualmente me encuentro aprendiendo sobre tecnologías relacionadas con el desarrollo web y el desarrollo full-stack
+I'm pursuing a degree in systems engineer with an emphasis on software development, I am currently learning about technologies related to web development and full-stack development
 
-Me apasiona la automatización de tareas para facilitar la vida del usuario del común 
+I am passionate about automating tasks to make life easier for ordinary users
 
-Aparte del desarrollo web tradicional he utilizado herramientas como Node js para gestionar actividades que requieran interacción con múltiples usuarios, además del uso de bases de datos relacionales para obtener una visión del uso del aplicativo mediante los datos obtenidos. 
+Apart from traditional web development, I have used tools such as Node js to manage activities that require interaction with multiple users, in addition to the use of relational databases to obtain a vision of the use of the application through the data obtained.
 </p></div>
 
 <div align="center">
@@ -24,7 +24,7 @@ Aparte del desarrollo web tradicional he utilizado herramientas como Node js par
 <br>
 </div>
 
-### Languages & Tools:
+### I've worked with:
 
 #### Languages:
 <div>
@@ -43,6 +43,10 @@ Aparte del desarrollo web tradicional he utilizado herramientas como Node js par
 <img align="left" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=AmazonAWS&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  
 <br>
 </div>
 
@@ -56,6 +60,7 @@ Aparte del desarrollo web tradicional he utilizado herramientas como Node js par
 #### Deploy:
 <div>
 <img align="left" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge"/>  
 <br>
 </div>
 
