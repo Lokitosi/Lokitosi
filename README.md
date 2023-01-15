@@ -71,7 +71,7 @@ Apart from traditional web development, I have used tools such as Node js to man
 <div>
 <img align="left" src="https://img.shields.io/badge/-Premiere Pro-9999FF?logo=AdobePremierePro&logoColor=white&style=for-the-badge"/>
 <img align="left" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white&style=for-the-badge"/>
-<img align="left" src="https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=white&style=for-the-badge"/>
+<img align="left" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge"/>
 <br>
 </div>
 
